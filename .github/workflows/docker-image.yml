@@ -3,7 +3,7 @@ name: Build and Push Docker Image
 on:
   push:
     branches:
-      - my-workflow
+      - main
 
 jobs:
   build-and-push:

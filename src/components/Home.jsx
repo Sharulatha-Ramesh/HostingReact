@@ -1,6 +1,6 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
-import me from '../assets/me.png';
+import me from '../assets/mee.png';
 import { Link } from "react-scroll"; 
 
 const Home = () => {
@@ -15,9 +15,7 @@ const Home = () => {
           I'm a Full Stack Web Developer
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-           I have 4 years of experience in graphics design and web development.
-          Currently, I love to work on web application using technologies like
-          React, Tailwind, Next.js and Mongodb.
+        Passionate fresher eager to dive into web development with React, Tailwind, Next.js, and MongoDB. Excited to explore AWS DevOps for efficient deployment and scalability.
         </p>
         <div>
           <Link

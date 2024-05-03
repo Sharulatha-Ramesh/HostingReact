@@ -10,6 +10,12 @@ const Skills = () => {
               <p className='py-4 text-2xl'>I enjoy diving into and learning new things. Here's a list of technologies I've worked with</p>
           </div> 
           <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
+          <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>Java</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <p className='my-4'>Problem-solving</p>
+              </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>HTML</p>
               </div>
@@ -32,19 +38,10 @@ const Skills = () => {
                   <p className='my-4'>MONGO DB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>AWS</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>Django</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>Sass</p>
+                  <p className='my-4'>Devops</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>Mongodb</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>GraphQl</p>
               </div>
           </div>
       </div>
@@ -52,4 +49,3 @@ const Skills = () => {
   );
 };
 export default Skills;
-

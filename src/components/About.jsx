@@ -20,17 +20,14 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Hi. I'm Taminoturoko Briggs, nice to meet you. Please take a
+                Hi. I'm Sharulatha Ramesh, nice to meet you. Please take a
                 look around.
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                Recent graduate passionate about web development, skilled in HTML, CSS, JavaScript, React, and AWS. Eager to refine UI/UX skills and delve into frontend and backend development. Excited about learning DevOps practices to streamline workflows and drive innovation. Ready to contribute and grow in the dynamic tech industry.
               </p>
             </div>
           </div>
